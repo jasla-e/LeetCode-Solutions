@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [1929-concatenation-of-array](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
