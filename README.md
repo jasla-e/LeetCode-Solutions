@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0504-base-7) |
 | [1108-defanging-an-ip-address](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
