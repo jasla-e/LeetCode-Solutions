@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0504-base-7) |
 | [1108-defanging-an-ip-address](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
