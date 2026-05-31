@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
