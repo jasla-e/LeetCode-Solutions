@@ -9,8 +9,6 @@ var largestEven = function(s) {
         if(digit%2===0){
             return s.substring(0,i+1)
         }
-        
-        
           }
           return ""
           
