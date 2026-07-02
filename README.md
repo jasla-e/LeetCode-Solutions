@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3798-largest-even-number](https://github.com/jasla-e/LeetCode-Solutions/tree/master/3798-largest-even-number) |
 ## Array
 |  |
 | ------- |
