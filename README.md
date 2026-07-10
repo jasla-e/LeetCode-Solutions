@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0504-base-7) |
 | [2235-add-two-integers](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
