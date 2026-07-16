@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/jasla-e/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
+| [3136-valid-word](https://github.com/jasla-e/LeetCode-Solutions/tree/master/3136-valid-word) |
 | [3798-largest-even-number](https://github.com/jasla-e/LeetCode-Solutions/tree/master/3798-largest-even-number) |
 | [3894-traffic-signal-color](https://github.com/jasla-e/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Array
