@@ -6,17 +6,14 @@ var isValid = function(word) {
 
     if (word.length < 3) return false;
 
-    let hasVowel = false;
-    let hasConsonant = false;
+    let Vowel = false;
+    let Consonant = false;
 
     for (let ch of word) {
 
-        // Digit
         if (ch >= '0' && ch <= '9') {
             continue;
         }
-
-        // Letter
         if (
             (ch >= 'a' && ch <= 'z') ||
             (ch >= 'A' && ch <= 'Z')
@@ -24,16 +21,15 @@ var isValid = function(word) {
             let c = ch.toLowerCase();
 
             if ("aeiou".includes(c)) {
-                hasVowel = true;
+            Vowel = true;
             } else {
-                hasConsonant = true;
+                Consonant = true;
             }
         }
-        // Invalid character
         else {
             return false;
         }
     }
 
-    return hasVowel && hasConsonant;
+    return Vowel && Consonant;
 };
