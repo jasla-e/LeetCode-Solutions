@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0492-construct-the-rectangle](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0504-base-7) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2235-add-two-integers) |
