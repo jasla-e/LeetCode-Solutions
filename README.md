@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2769-find-the-maximum-achievable-number](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/jasla-e/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3894-traffic-signal-color](https://github.com/jasla-e/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Binary Search
