@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [2864-maximum-odd-binary-number](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3024-type-of-triangle](https://github.com/jasla-e/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3894-traffic-signal-color](https://github.com/jasla-e/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Binary Search
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2864-maximum-odd-binary-number](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/jasla-e/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/jasla-e/LeetCode-Solutions/tree/master/3136-valid-word) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [2864-maximum-odd-binary-number](https://github.com/jasla-e/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 <!---LeetCode Topics End-->
