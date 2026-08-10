@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0504-base-7) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/jasla-e/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/jasla-e/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
